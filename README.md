@@ -1,6 +1,19 @@
 # rcall
 
+<div align="center">
+
 Recursive text search in file and directory names and file content — fast, minimal, script-friendly.
+
+[![Nim](https://img.shields.io/badge/Nim-2.x-ffe953?logo=nim&logoColor=white)](https://nim-lang.org/)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![Platform](https://img.shields.io/badge/platform-Linux%20%7C%20BSD-lightgrey)]()
+[![CLI](https://img.shields.io/badge/type-CLI-1f425f.svg)]()
+[![Status](https://img.shields.io/badge/status-stable-success.svg)]()
+[![Style](https://img.shields.io/badge/style-ASTEAM-black.svg)]()
+
+</div>
+
+---
 
 ```
 rcall config src/
